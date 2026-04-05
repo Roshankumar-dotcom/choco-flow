@@ -2,7 +2,8 @@
 ![Spark](https://img.shields.io/badge/Apache%20Spark-PySpark-orange)
 ![Architecture](https://img.shields.io/badge/Architecture-Medallion-blue)
 
-# 📊 Chocolate Sales Data Pipeline (Medallion Architecture – Databricks)
+# 📊 Chocolate Sales Data Pipeline (Medallion Architecture – Databricks)<img width="1341" height="788" alt="chocolate_sales_pipeline" src="https://github.com/user-attachments/assets/3d69d50d-ac8d-47a3-8765-8cf30a0427d2" />
+
 
 ## 🚀 Project Overview
 
