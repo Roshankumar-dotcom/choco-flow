@@ -1,5 +1,24 @@
 # 🍫 Chocolate Sales Analytics (2023 – 2024)
 
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="120"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-FDEE21?logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/PySpark-ETL-FF9900?logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Analytics-336791?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white"/>
+
+</p>
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes a Chocolate Sales Dataset (2023–2024) using Python, Apache Spark, SQL, and Databricks.
